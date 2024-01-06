@@ -20,5 +20,5 @@
   alt="birthday cake"
 />
 <hr />
-<a href="./about.html ">About me </a>
-<a href="./contact.html">Contact me</a>
+<a href="./about me.html ">About me </a>
+<a href="./contact me.html">Contact me</a>
