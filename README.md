@@ -6,7 +6,7 @@
 </h1>
 
 <img
-  src="./assets/images/myfav.png"
+  src="./myfav.png"
   alt="my best movie ranking"
 />
 <h1>
