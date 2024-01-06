@@ -1,6 +1,6 @@
 <hr />
 <h1>
-  <a href="../4.3 HTML Porfolio Project/public/movie-ranking.html"
+  <a href="./movie-ranking.html"
     >movie ranking project</a
   >
 </h1>
