@@ -7,7 +7,7 @@
     <title>Divyaxi's portfolio</title>
   </head>
  
-  </style>
+  
   <body>
     <h1>Divyaxi Rawat's Portfolio</h1>
     <h2>I am a web developer</h2>
